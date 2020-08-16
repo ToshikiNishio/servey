@@ -1,5 +1,5 @@
-# servey
-servey for NLP
+# 目的
+呼んだ論文の個人的なまとめ
 
 # Format
 
@@ -21,3 +21,7 @@ http://lafrenze.hatenablog.com/entry/2015/08/04/120205
 
 ## 6. 次に読むべき論文は？
 ```
+
+# 論文の読み方
+
+[論文の読み方 [和訳]](https://qiita.com/cirusthenter/items/2e508c5fb3e824312918)
