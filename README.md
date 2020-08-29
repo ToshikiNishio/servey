@@ -22,6 +22,8 @@ http://lafrenze.hatenablog.com/entry/2015/08/04/120205
 ## 6. 次に読むべき論文は？
 ```
 
-# 論文の読み方
+# リンク
 
 [論文の読み方 [和訳]](https://qiita.com/cirusthenter/items/2e508c5fb3e824312918)
+
+[英語論文をコピペして翻訳するときに改行を簡単に取り除く方法](https://qiita.com/Kyou13/items/87285426b13e3969ecb7)
